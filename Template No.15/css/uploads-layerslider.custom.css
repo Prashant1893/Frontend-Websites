@@ -1,0 +1,15 @@
+/*
+You can type here custom CSS code, which will be loaded both on your admin and front-end pages. Please make sure to not override layout properties (positions and sizes), as they can interfere with the sliders built-in responsive functionality. Here are few example targets to help you get started:
+*/
+
+.ls-container { /* Slider container */
+
+}
+
+.ls-layers { /* Layers wrapper */ 
+
+}
+
+.ls-3d-box div { /* Sides of 3D transition objects */ 
+
+}
